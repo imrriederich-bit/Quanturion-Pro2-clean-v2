@@ -1,0 +1,20 @@
+{
+  "expo": {
+    "name": "Quanturion Pro2",
+    "slug": "quanturion-pro2",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "platforms": [
+      "android",
+      "ios"
+    ],
+    "android": {
+      "package": "com.imrriederich.quanturionpro2"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "9e944038-6ccd-4d97-8ed3-0f05a805e132"
+      }
+    }
+  }
+}
