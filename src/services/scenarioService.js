@@ -281,14 +281,11 @@ function buildInsuranceScenario(form) {
     rangeMin,
     rangeMax,
     providers: INSURANCE_PROVIDERS,
-    insights: {
-      why: "Insurance is rarely the biggest lever, but often a clean price-to-value optimization.",
-      steps: [
-        "Validate driver and vehicle profile.",
-        "Check claims history and required cover level.",
-        "Prepare a structured request for licensed providers.",
-      ],
-      docs: ["Current policy", "Claims history", "Vehicle registration"],
+  insights: {
+  why: "insuranceWhy",
+  steps: ["insuranceStep1", "insuranceStep2", "insuranceStep3"],
+  docs: ["insuranceDoc1", "insuranceDoc2", "insuranceDoc3"],
+  }
     },
   };
 }
