@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "Quanturion Pro2",
-    "slug": "quanturion-pro2",
+    "slug": "httpsgithubcomimrriederich-bitquanturion-pro2-clean-v2git",
     "version": "1.0.0",
     "orientation": "portrait",
     "platforms": [
@@ -13,7 +13,7 @@
     },
     "extra": {
       "eas": {
-        "projectId": "9e944038-6ccd-4d97-8ed3-0f05a805e132"
+        "projectId": "86c6cd85-5ea8-4f1b-936f-dac68ad8dec9"
       }
     }
   }
