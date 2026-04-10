@@ -286,9 +286,6 @@ function buildInsuranceScenario(form) {
   steps: ["insuranceStep1", "insuranceStep2", "insuranceStep3"],
   docs: ["insuranceDoc1", "insuranceDoc2", "insuranceDoc3"],
   }
-    },
-  };
-}
 
 export function calculateScenario(module, form) {
   switch (module) {
